@@ -1,5 +1,5 @@
 
-var sonnet = document.getElementById("sonnet").innerHTML;
+var sonnet = document.getElementById("sonnet").innerText;
 
 
 // Find and output the starting position of the word "orphans"
